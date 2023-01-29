@@ -1,0 +1,2 @@
+For each of the three given datasets implement one machine learning method that performs regression or classification to fit a line/decision boundary for the data.
+Plot each dataset together with your predicted line/decision boundary in one plot 
